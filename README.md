@@ -1,6 +1,7 @@
 # ui_templete
 # Description
-We should have to one generic Application as a Template, and this application can be duplicated to multiple organizations by changing the configuration.
+We should have to one simple Application, and this application can be duplicated to multiple organizations by changing the configuration.
+(More details will be added soon)
 
 ## Application should have below features
 
