@@ -9,10 +9,19 @@ We should have to one generic Application as a Template, and this application ca
  3. Should have option for subscription
 
 ## Tech Stack (still in discussion)
-
- - **FrontEnd** 	
- - ReactJs, TypeScript, JavaScript, HTML, CSS
- 
- - **BackEnd** 	
- - NodeJS, ExpressJS, Firebase, MongoDB(optional)
-
+*   **FrontEnd**
+    *   UI
+        *   ReactJS, TypeScript, JavaScript, Html, Css
+    *   UI Component Library
+        *   MaterialUI/MantineUI, Tailwind css
+    *   UI State Management
+        *   Redux/Zustand
+    *   API Calls
+        *   Axios
+*   **BackEnd**
+    *   Server
+        *   NodeJS/ExpressJS
+    *   DataBase
+        *   MongoDB
+    *   Authentication Provider
+        *   FireBase
